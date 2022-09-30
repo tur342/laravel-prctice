@@ -2,7 +2,7 @@
 
 
 ## 起動コマンド
-'''
+```
 docker-compose build
 
 docker-compose up -d
@@ -48,4 +48,4 @@ show databases;
 use laraveldb;
 
 show tables;
-'''
+```
